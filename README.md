@@ -1,6 +1,6 @@
 
 ## Task
-Fetch and display top 30 repos from github organization.   
+Fetch and display top 30 repos from github organization. e.g. adobe
 
 
 ### npm start  
