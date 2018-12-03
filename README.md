@@ -1,3 +1,8 @@
+
+## Task
+Fetch and display top 30 repos from github organization.   
+
+
 ### npm start  
 npm install --save apollo-client apollo-cache-inmemory apollo-link-http graphql graphql-tag react-apollo
 npm start    
