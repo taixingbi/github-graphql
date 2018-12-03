@@ -10,7 +10,7 @@ REACT_APP_GITHUB_TOKEN= "0414613bb7f8c1ca66fa942810beebf61f15182c"
 From [3], select a company and put name as organization
 
 ### result 
-here is [result](https://github.com/taixingbi/github-graphql/blob/master/result.jpg)
+here is [result](https://github.com/taixingbi/github-graphql/blob/master/result.jpg)    
 
 ### reference
 [1] [How to use GraphQL with React](https://www.leighhalliday.com/how-to-use-graphql-with-react)   
