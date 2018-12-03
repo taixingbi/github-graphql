@@ -3,7 +3,7 @@ npm install --save apollo-client apollo-cache-inmemory apollo-link-http graphql 
 npm start    
 
 ### add token 
-touch env.local   
+touch .env.local   
 REACT_APP_GITHUB_TOKEN= "0414613bb7f8c1ca66fa942810beebf61f15182c"
 
 ### Open source organizations
